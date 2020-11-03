@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grow Calendar</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="wrapper">
+
+      <header class="header hide-header">
+        <div class="header-logo">
+          <img src="logo.png"  />
+        </div>
+        <div class="header-zone">
+          Zone 
+        </div>
+      </header>
+
+
+
+      <h1 class="application-title">Grow Calendar</h1>
+      <div id="growing-calendar" class="no-printme">
+        <div class="form-group">
+          <label id="zip-code-label" for="zone">Enter your zip code:</label>
+          <input type="text" id="zip-code" />
+          <button id="zip-code-btn">change zip</button>
+        </div>
+        <div id="zip-code-data">
+        </div>
+      </div>
+
+
+      <div id="categories-links" class="no-printme">
+      </div>
+      <div id="categories-types-container" class="no-printme">
+      </div>
+      <div class="printme" id="resultContainer">
+      </div>
+    </div>
+
+    <div id="tooltip"></div>
+
+
+
+    <button class="no-printme" id="printer"></button>
+
+  </body>
+</html>

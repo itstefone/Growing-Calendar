@@ -1,0 +1,2741 @@
+[
+    {
+        "category": "HERBS",
+        "type" : "Basil",
+        "image" : "1_BASIL_GENOVESE.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"7-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"4-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"4-Jan"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ],
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "2-Jun",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+    },
+    {
+        "category": "HERBS",
+        "type" : "Cilantro",
+        "image" : "5_CILANTRO.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"7-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"4-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"4-Jan"
+            }    
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ],
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+    },
+    {
+        "category": "HERBS",
+        "type" : "Parsley",
+        "image" : "6_PARSLEY.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "10-Mar",
+                "endDate":"17-Mar"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"4-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"4-Jan"
+            }    
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ],
+        "spring_direct" : [
+
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+    },
+    {
+        "category": "HERBS",
+        "type" : "Chives",
+        "image" : "7_CHIVES_GARLIC.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"7-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"4-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"4-Jan"
+            }    
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ],
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"13-May"
+            }
+        ]
+    },
+    {
+        "category": "HERBS",
+        "type" : "Dill",
+        "image" : "8_DILL_MAMMOTH.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"7-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"4-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"4-Jan"
+            }    
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ],
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+    }, 
+    {
+        "category": "HERBS",
+        "type" : "Sage",
+        "image" : "9_SAGE.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "10-Mar",
+                "endDate":"24-Mar"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "22-Feb",
+                "endDate":"7-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "5-Feb",
+                "endDate":"19-Feb"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "7-Dec",
+                "endDate":"21-Dec"
+            }    
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+    }, 
+    {
+        "category": "HERBS",
+        "type" : "Thyme",
+        "image" : "10_THYME_ENGLISH.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"7-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"4-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"4-Jan"
+            }    
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+    },  
+    {
+        "category": "HERBS",
+        "type" : "Lemon Balm",
+        "image" : "11_LEMONBALM.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"7-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"4-Mar"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            }
+        ],
+        "spring_direct" : [
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ] 
+    },   
+    {
+        "category": "HERBS",
+        "type" : "Oregano",
+        "image" : "12_OREGANO_ITALIAN.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "10-Mar",
+                "endDate":"17-Mar"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"4-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"4-Jan"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ],
+        "spring_direct" : [
+            {
+                "zone":"7/8",
+                "startDate": "1-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"15-Apr"
+            }
+        ] 
+    },  
+    {
+        "category": "HERBS",
+        "type" : "Chamomile",
+        "image" : "13_CHAMOMILE",
+
+        "spring_transplant" : [
+
+            {
+                "zone":"7/8",
+                "startDate": "1-Apr",
+                "endDate":"13-May"
+            }
+        ],
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"14-Mar"
+            }
+        ] 
+    }, 
+    {
+        "category": "HERBS",
+        "type" : "Catnip",
+        "image" : "14_CATNIP.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "25-Mar",
+                "endDate":"7-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"4-Mar"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"13-May"
+            }
+        ],
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"14-Mar"
+            }
+        ] 
+    },  
+    {
+        "category": "HERBS",
+        "type" : "Mint",
+        "image" : "15_PEPPERMINT.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "10-Mar",
+                "endDate":"24-Mar"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "22-Feb",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "5-Feb",
+                "endDate":"12-Feb"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "7-Dec",
+                "endDate":"21-Dec"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+    },  
+    {
+        "category": "HERBS",
+        "type" : "Cat Grass",
+        "image" : "16_CATGRASS.jpg",
+        "spring_indoor" : [
+
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            }
+        ],
+        "spring_transplant" : [
+
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            }
+
+        ],
+
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"14-Mar"
+            }
+        ] 
+    },
+    {
+        "category": "HERBS",
+        "type" : "Lavender",
+        "image" : "17_LAVENDER_ENGLISH.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"5/6",
+                "startDate": "22-Feb",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "5-Feb",
+                "endDate":"4-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "7-Dec",
+                "endDate":"4-Jan"
+            }
+
+        ],
+        "spring_transplant" : [
+
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+    },
+    {
+        "category": "LEAFY GREENS",
+        "type" : "Arugula",
+        "image" : "18_ARUGULA.jpg",
+        "spring_indoor" : [
+
+            {
+                "zone":"7/8",
+                "startDate": "23-Jul",
+                "endDate":"15-Aug"
+            }
+        ],
+
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "5-May",
+                "endDate":"2-Jun"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "10-Jul",
+                "endDate":"21-Aug"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "18-Apr",
+                "endDate":"16-May"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "6-Aug",
+                "endDate":"17-Sep"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "18-Mar",
+                "endDate":"24-Jun"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "23-Jul",
+                "endDate":"1-Oct"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"29-Feb"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "22-Sep",
+                "endDate":"20-Oct"
+            }
+        ]
+    },
+    {
+        "category": "LEAFY GREENS",
+        "type" : "Cabbage",
+        "image" : "21_CABAGGE_GOLDENACRE.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"21-Apr"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "12-Jun",
+                "endDate":"24-Jul"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"4-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "9-Jul",
+                "endDate":"20-Aug"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"18-Mar"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"18-Jan"
+            }
+
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "21-Apr",
+                "endDate":"5-May"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "15-Aug",
+                "endDate":"5-Sep"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "18-Apr",
+                "endDate":"16-May"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "1-Sep",
+                "endDate":"15-Oct"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "18-Mar",
+                "endDate":"15-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Mar"
+            }
+        ],
+        "spring_direct" : [
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "12-Jan",
+                "endDate":"9-Feb"
+            }
+        ]
+    },
+    {
+        "category": "LEAFY GREENS",
+        "type" : "Kale",
+        "image" : "23_KALE_LACINATO.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"7-Apr"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "10-Jul",
+                "endDate":"24-Jul"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"4-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "3-Sep",
+                "endDate":"15-Oct"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "25-Aug",
+                "endDate":"22-Sep"
+            }
+
+        ],
+        "spring_transplant" : [
+
+           
+
+            {
+                "zone":"7/8",
+                "startDate": "25-Mar",
+                "endDate":"29-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "3-Sep",
+                "endDate":"15-Oct"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "8-Sep",
+                "endDate":"1-Dec"
+            }
+        ],
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "21-Apr",
+                "endDate":"5-May"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "15-Aug",
+                "endDate":"4-Sep"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "21-Mar",
+                "endDate":"2-May"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "6-Aug",
+                "endDate":"20-Aug"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "25-Mar",
+                "endDate":"29-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "3-Sep",
+                "endDate":"15-Oct"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "8-Sep",
+                "endDate":"1-Nov"
+            }
+        ]
+    },
+    {
+        "category": "LEAFY GREENS",
+        "type" : "Lettuce",
+        "image" : "28_LETTUCE_BUTTERHEAD.jpg",
+        "spring_indoor" : [
+
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"4-Apr"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "4-Mar",
+                "endDate":"18-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "23-Jul",
+                "endDate":"3-Sep"
+            }
+
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"5/6",
+                "startDate": "4-Apr",
+                "endDate":"16-May"
+            },
+
+
+            {
+                "zone":"7/8",
+                "startDate": "25-Mar",
+                "endDate":"29-Apr"
+            }
+        ],
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "21-Apr",
+                "endDate":"5-May"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "10-Jul",
+                "endDate":"21-Aug"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "4-Apr",
+                "endDate":"16-May"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "6-Aug",
+                "endDate":"17-Sep"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "25-Mar",
+                "endDate":"29-Apr"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "23-Jul",
+                "endDate":"3-Sep"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"1-Mar"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "22-Sep",
+                "endDate":"20-Oct"
+            }
+        ]
+    },
+    {
+        "category": "LEAFY GREENS",
+        "type" : "Spinach",
+        "image" : "32_SPINACH.jpg",
+        "spring_indoor" : [
+
+            {
+                "zone":"7/8",
+                "startDate": "4-Mar",
+                "endDate":"18-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "3-Sep",
+                "endDate":"1-Oct"
+            }
+
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"7/8",
+                "startDate": "25-Mar",
+                "endDate":"29-Apr"
+            }
+
+        ],
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "21-Apr",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "10-Jul",
+                "endDate":"21-Aug"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "4-Apr",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "25-Mar",
+                "endDate":"29-Apr"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "3-Sep",
+                "endDate":"1-Oct"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Mar"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "6-Oct",
+                "endDate":"3-Nov"
+            }
+        ]
+    },
+    {
+        "category": "LEAFY GREENS",
+        "type" : "Swiss Chard",
+        "image" : "34_SWISSCHARD_RUBY.jpg",
+        "spring_indoor" : [
+
+            {
+                "zone":"7/8",
+                "startDate": "23-Jul",
+                "endDate":"17-Sep"
+            }
+
+        ],
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "5-May",
+                "endDate":"28-Jul"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "10-Jul",
+                "endDate":"21-Aug"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "18-Apr",
+                "endDate":"11-Jul"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "6-Aug",
+                "endDate":"17-Sep"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "1-Apr",
+                "endDate":"24-Jun"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "3-Sep",
+                "endDate":"17-Sep"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"28-Mar"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "6-Oct",
+                "endDate":"25-Aug"
+            }
+        ]
+    },
+    {
+        "category": "VEGGIE",
+        "type" : "Bean",
+        "image" : "36_BEAN_BLUELAKE.jpg",
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"28-Jul"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "16-May",
+                "endDate":"13-Jun"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"24-Jun"
+            },
+
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Mar",
+                "endDate":"11-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "8-Sep",
+                "endDate":"6-Oct"
+            }
+        ]
+    },
+    {
+        "category": "VEGGIE",
+        "type" : "Beets",
+        "image" : "38_BEETS_DETROIT.jpg",
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"28-Jul"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "10-Jul",
+                "endDate":"21-Aug"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "16-May",
+                "endDate":"13-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "6-Aug",
+                "endDate":"17-Sep"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "1-Apr",
+                "endDate":"27-May"
+            },
+
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Mar",
+                "endDate":"11-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "8-Sep",
+                "endDate":"6-Oct"
+            }
+        ]
+    },
+    {
+        "category": "VEGGIE",
+        "type" : "Broccoli",
+        "image" : "39_BROCCOLI.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"21-Apr"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "12-Jun",
+                "endDate":"24-Jul"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"4-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "9-Jul",
+                "endDate":"20-Aug"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"18-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "1-Aug",
+                "endDate":"15-Aug"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"18-Jan"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "25-Aug",
+                "endDate":"22-Sep"
+            }
+
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "21-Apr",
+                "endDate":"5-May"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "15-Aug",
+                "endDate":"5-Sep"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "18-Apr",
+                "endDate":"2-May"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "1-Sep",
+                "endDate":"15-Oct"
+            },
+
+
+            {
+                "zone":"7/8",
+                "startDate": "18-Mar",
+                "endDate":"15-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "9-Sep",
+                "endDate":"1-Oct"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "22-Sep",
+                "endDate":"15-Oct"
+            }
+        ],
+        "spring_direct" : [
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "8-Sep",
+                "endDate":"6-Oct"
+            }
+        ]
+    },
+    {
+        "category": "VEGGIE",
+        "type" : "Carrot",
+        "image" : "40_CARROT_SCARLET.jpg",
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"2-Jun"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "10-Jul",
+                "endDate":"21-Aug"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "18-Apr",
+                "endDate":"25-Jul"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "6-Aug",
+                "endDate":"17-Sep"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "1-Apr",
+                "endDate":"29-Apr"
+            },
+
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"28-Mar"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "22-Sep",
+                "endDate":"3-Nov"
+            }
+        ]
+    },
+    {
+        "category": "VEGGIE",
+        "type" : "Cauliflower",
+        "image" : "44_CAULIFLOWER_SNOWBALL.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"21-Apr"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "12-Jun",
+                "endDate":"24-Jul"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"4-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "9-Jul",
+                "endDate":"20-Aug"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"18-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "1-Aug",
+                "endDate":"15-Aug"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"18-Jan"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "8-Sep",
+                "endDate":"22-Sep"
+            }
+
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "21-Apr",
+                "endDate":"5-May"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "15-Aug",
+                "endDate":"5-Sep"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "18-Apr",
+                "endDate":"2-May"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "1-Sep",
+                "endDate":"15-Oct"
+            },
+
+
+            {
+                "zone":"7/8",
+                "startDate": "18-Mar",
+                "endDate":"15-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "9-Sep",
+                "endDate":"15-Sep"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "22-Sep",
+                "endDate":"29-Oct"
+            }
+
+        ],
+        "spring_direct" : [
+
+
+            {
+                "zone":"9/10",
+                "startDate": "22-Sep",
+                "endDate":"20-Oct"
+            }
+        ]
+    },
+    {
+        "category": "VEGGIE",
+        "type" : "Cucumber",
+        "image" : "45_CUCUMBER_SLICING.jpg",
+
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "2-Jun",
+                "endDate":"30-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "16-May",
+                "endDate":"13-Jun"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"24-Jun"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "1-Mar",
+                "endDate":"11-Apr"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "8-Sep",
+                "endDate":"6-Oct"
+            }
+        ]
+    },
+    {
+        "category": "VEGGIE",
+        "type" : "Eggplant",
+        "image" : "47_EGGPLANT.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "10-Mar",
+                "endDate":"24-Mar"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "22-Feb",
+                "endDate":"7-Mar"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "5-Feb",
+                "endDate":"19-Feb"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "7-Dec",
+                "endDate":"21-Dec"
+            }
+
+
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "2-Jun",
+                "endDate":"30-Jun"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "16-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"27-May"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+
+    }, 
+
+    {
+        "category": "VEGGIE",
+        "type" : "Onion",
+        "image" : "49_ONION_YELLOW.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "1-Mar",
+                "endDate":"24-Mar"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "22-Feb",
+                "endDate":"7-Mar"
+            },
+           
+            {
+                "zone":"7/8",
+                "startDate": "1-Feb",
+                "endDate":"19-Feb"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "15-Nov",
+                "endDate":"4-Jan"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "21-Apr",
+                "endDate":"5-May"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"2-May"
+            },
+
+
+
+            {
+                "zone":"7/8",
+                "startDate": "15-Feb",
+                "endDate":"15-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "25-Jan",
+                "endDate":"1-Mar"
+            }
+
+        ],
+        "spring_direct" : [
+
+            {
+                "zone":"5/6",
+                "startDate": "6-Aug",
+                "endDate":"17-Sep"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"1-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "17-Nov",
+                "endDate":"26-Jan"
+            }
+        ]
+    },   
+
+    {
+        "category": "VEGGIE",
+        "type" : "Okra",
+        "image" : "51_OKRA.jpg",
+
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "16-Jun",
+                "endDate":"28-Jul"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "30-May",
+                "endDate":"11-Jul"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "13-May",
+                "endDate":"24-Jun"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "1-Mar",
+                "endDate":"25-Apr"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "8-Sep",
+                "endDate":"22-Sep"
+            }
+        ]
+    }, 
+    {
+        "category": "VEGGIE",
+        "type" : "Pea",
+        "image" : "53_PEA_SUGARDADDY.jpg",
+
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "21-Apr",
+                "endDate":"2-Jun"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "10-Jul",
+                "endDate":"21-Aug"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "4-Apr",
+                "endDate":"16-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "4-Mar",
+                "endDate":"24-Jun"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "18-Jan",
+                "endDate":"1-Mar"
+            }
+        ]
+    },
+
+    {
+        "category": "VEGGIE",
+        "type" : "Pepper",
+        "image" : "54_PEPPER_CAL.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "10-Mar",
+                "endDate":"24-Mar"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "22-Feb",
+                "endDate":"7-Mar"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "5-Feb",
+                "endDate":"19-Feb"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "7-Dec",
+                "endDate":"21-Dec"
+            }
+
+
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "2-Jun",
+                "endDate":"30-Jun"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"27-May"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"28-Apr"
+            }
+        ]
+    }, 
+    {
+        "category": "VEGGIE",
+        "type" : "Pumpkin",
+        "image" : "62_PUMPKIN_JACKO.jpg",
+
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "2-Jun",
+                "endDate":"30-Jun"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "16-May",
+                "endDate":"13-Jun"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "6-May",
+                "endDate":"27-May"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "14-Mar",
+                "endDate":"25-Apr"
+            }
+        ]
+    },
+    {
+        "category": "VEGGIE",
+        "type" : "Radish",
+        "image" : "64_RADISH_CHERRY.jpg",
+
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "14-Apr",
+                "endDate":"2-Jun"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "10-Jul",
+                "endDate":"21-Aug"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "28-Mar",
+                "endDate":"16-May"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "6-Aug",
+                "endDate":"17-Sep"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "1-Apr",
+                "endDate":"24-Jun"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "3-Sep",
+                "endDate":"1-Oct"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"14-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "6-Oct",
+                "endDate":"3-Nov"
+            }
+        ]
+    },
+    {
+        "category": "VEGGIE",
+        "type" : "Squash",
+        "image" : "67_SQUASH_BLACKBEAUTY.jpg",
+
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "2-Jun",
+                "endDate":"30-Jun"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "16-May",
+                "endDate":"11-Jul"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "29-Apr",
+                "endDate":"27-May"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Mar",
+                "endDate":"25-Apr"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "8-Sep",
+                "endDate":"22-Sep"
+            }
+        ]
+    },
+
+    {
+        "category": "VEGGIE",
+        "type" : "Tomato",
+        "image" : "77_TOMATO_RUTGERS.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"7-Apr"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "19-Feb",
+                "endDate":"4-Mar"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "4-Jan",
+                "endDate":"18-Jan"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Jul",
+                "endDate":"15-Aug"
+            }
+
+
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "2-Jun",
+                "endDate":"30-Jun"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"27-May"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "8-Sep",
+                "endDate":"22-Sep"
+            }     
+
+        ]
+
+    }, 
+    {
+        "category": "FRUIT",
+        "type" : "Cantaloupe",
+        "image" : "79_CANTELOUPE_JUMBO.jpg",
+
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "2-Jun",
+                "endDate":"30-Jun"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "16-May",
+                "endDate":"13-Jun"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "15-Apr",
+                "endDate":"27-May"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Mar",
+                "endDate":"25-Apr"
+            }
+        ]
+    }, 
+    {
+        "category": "FRUIT",
+        "type" : "Watermelon",
+        "image" : "80_WATERMELON_CRIMSON.jpg",
+
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "2-Jun",
+                "endDate":"30-Jun"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "16-May",
+                "endDate":"13-Jun"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "29-Apr",
+                "endDate":"27-May"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Mar",
+                "endDate":"25-Apr"
+            }
+        ]
+    }, 
+    {
+        "category": "FLOWER",
+        "type" : "Sunflower",
+        "image" : "83_MAMMOTH.jpg",
+
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "26-May",
+                "endDate":"2-Jun"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "9-May",
+                "endDate":"16-May"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "22-Apr",
+                "endDate":"29-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "22-Feb",
+                "endDate":"25-Apr"
+            }
+        ]
+    }, 
+    {
+        "category": "FLOWER",
+        "type" : "Zinnia",
+        "image" : "86_ZINNIA.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "21-Apr",
+                "endDate":"5-May"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "4-Apr",
+                "endDate":"18-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "18-Mar",
+                "endDate":"1-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "18-Jan",
+                "endDate":"1-Feb"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ],
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "26-May",
+                "endDate":"16-Jun"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"16-May"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "22-Apr",
+                "endDate":"29-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+    }, 
+    {
+        "category": "FLOWER",
+        "type" : "Marigold",
+        "image" : "87_MARIGOLDSPARKY.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"7-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "4-Mar",
+                "endDate":"18-Mar"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"4-Jan"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"30-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"13-May"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ],
+
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "2-Jun",
+                "endDate":"16-Jun"
+            },
+
+            {
+                "zone":"5/6",
+                "startDate": "9-May",
+                "endDate":"16-May"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "22-Apr",
+                "endDate":"29-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "22-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+    }, 
+    {
+        "category": "FLOWER",
+        "type" : "Cosmos",
+        "image" : "88_COSMOS.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"7-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "21-Mar",
+                "endDate":"4-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "4-Mar",
+                "endDate":"18-Mar"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "4-Jan",
+                "endDate":"18-Jan"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "26-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "9-May",
+                "endDate":"16-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "22-Apr",
+                "endDate":"29-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"1-Mar"
+            }
+        ],
+
+        "spring_direct" : [
+
+            {
+                "zone":"5/6",
+                "startDate": "9-May",
+                "endDate":"16-May"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "22-Apr",
+                "endDate":"29-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "22-Feb",
+                "endDate":"1-Mar"
+            }
+        ]
+    }, 
+    {
+        "category": "FLOWER",
+        "type" : "Nasturtium",
+        "image" : "89_NASTURTIUM.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "7-Apr",
+                "endDate":"21-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "21-Mar",
+                "endDate":"4-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "4-Mar",
+                "endDate":"18-Mar"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "4-Jan",
+                "endDate":"18-Jan"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "26-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "9-May",
+                "endDate":"1-Jun"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "22-Apr",
+                "endDate":"13-May"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "22-Feb",
+                "endDate":"1-Apr"
+            }
+        ],
+
+        "spring_direct" : [
+
+            {
+                "zone":"3/4",
+                "startDate": "26-May",
+                "endDate":"16-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "9-May",
+                "endDate":"1-Jun"
+            },
+
+            {
+                "zone":"7/8",
+                "startDate": "22-Apr",
+                "endDate":"29-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "22-Feb",
+                "endDate":"1-Apr"
+            }
+        ]
+    },   
+
+    {
+        "category": "FLOWER",
+        "type" : "Lavender",
+        "image" : "17_LAVENDER_ENGLISH.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"5/6",
+                "startDate": "22-Feb",
+                "endDate":"21-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "5-Feb",
+                "endDate":"4-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "7-Dec",
+                "endDate":"4-Jan"
+            }
+
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"5/6",
+                "startDate": "28-Mar",
+                "endDate":"16-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "7-Mar",
+                "endDate":"29-Apr"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"15-Apr"
+            }
+        ]
+    },
+    {
+        "category": "FLOWER",
+        "type" : "Bachelor Buttons",
+        "image" : "92_BACHELORBUTTONS.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "24-Mar",
+                "endDate":"7-Apr"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "21-Mar",
+                "endDate":"4-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "4-Mar",
+                "endDate":"18-Mar"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "4-Jan",
+                "endDate":"18-Jan"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "19-May",
+                "endDate":"2-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "2-May",
+                "endDate":"16-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"29-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Mar"
+            }
+        ],
+
+        "spring_direct" : [
+            {
+                "zone":"7/8",
+                "startDate": "11-Apr",
+                "endDate":"29-Apr"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Mar"
+            }
+        ]
+    },   
+    {
+        "category": "FLOWER",
+        "type" : "Echinacea",
+        "image" : "93_ECHINACEA.jpg",
+        "spring_indoor" : [
+            {
+                "zone":"3/4",
+                "startDate": "10-Mar",
+                "endDate":"24-Mar"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "22-Feb",
+                "endDate":"7-Mar"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "5-Feb",
+                "endDate":"19-Feb"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"4-Jan"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "15-Aug",
+                "endDate":"15-Sep"
+            }
+        ],
+        "spring_transplant" : [
+            {
+                "zone":"3/4",
+                "startDate": "5-May",
+                "endDate":"2-Jun"
+            },
+            {
+                "zone":"3/4",
+                "startDate": "4-Sep",
+                "endDate":"16-Oct"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "28-Mar",
+                "endDate":"16-May"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "17-Sep",
+                "endDate":"29-Oct"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "7-Mar",
+                "endDate":"29-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "17-Sep",
+                "endDate":"29-Oct"
+            },
+
+            {
+                "zone":"9/10",
+                "startDate": "15-Feb",
+                "endDate":"28-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "22-Sep",
+                "endDate":"6-Oct"
+            }
+        ],
+
+        "spring_direct" : [
+           
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Mar"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "22-Sep",
+                "endDate":"6-Oct"
+            }
+        ]
+    },   
+
+
+
+
+    {
+        "category": "LEAFY GREENS",
+        "type" : "Pak Choi",
+        "image" : "20_PAKCHOI.jpg",
+        "spring_indoor" : [
+
+            {
+                "zone":"5/6",
+                "startDate": "7-Mar",
+                "endDate":"4-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "18-Feb",
+                "endDate":"19-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "23-Jul",
+                "endDate":"15-Aug"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "21-Dec",
+                "endDate":"18-Jan"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "25-Aug",
+                "endDate":"22-Sep"
+            }
+        ],
+        "spring_transplant" : [
+
+            {
+                "zone":"5/6",
+                "startDate": "18-Apr",
+                "endDate":"16-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "18-Mar",
+                "endDate":"15-Apr"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "9-Sep",
+                "endDate":"15-Oct"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Apr"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "22-Sep",
+                "endDate":"15-Oct"
+            }
+        ],
+        "spring_direct" : [
+            {
+                "zone":"3/4",
+                "startDate": "5-May",
+                "endDate":"2-Jun"
+            },
+            {
+                "zone":"5/6",
+                "startDate": "18-Apr",
+                "endDate":"16-May"
+            },
+            {
+                "zone":"7/8",
+                "startDate": "18-Mar",
+                "endDate":"1-Apr"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "1-Feb",
+                "endDate":"1-Apr"
+            },
+            {
+                "zone":"9/10",
+                "startDate": "8-Sep",
+                "endDate":"6-Oct"
+            }
+        ]
+    }
+]
